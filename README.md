@@ -24,11 +24,12 @@ In many institutions, hostel complaint handling is:
 ## 💡 Solution
 This system provides a centralized digital platform that enables:
 
-- Seamless complaint registration  
-- Anonymous issue reporting  
-- Emergency priority flagging  
-- Real-time complaint tracking  
-- Feedback after resolution  
+- 📝 Complaint submission with tracking  
+- 🔒 Anonymous reporting for sensitive issues  
+- 🚨 Emergency flag for high-priority complaints  
+- 📊 Real-time status updates and resolution tracking  
+- 🪪 Digital Outpass Management System for student movement tracking  
+- 🤖 Chatbot assistance for quick queries and guidance  
 
 The goal is to create a **transparent, accountable, and user-friendly system** for both students and administrators.
 
@@ -36,12 +37,14 @@ The goal is to create a **transparent, accountable, and user-friendly system** f
 
 ## 🚀 Key Features
 
-- 📝 Complaint Submission System  
+- 📝 Complaint Management System  
 - 🔒 Anonymous Complaint Option  
-- 🚨 Emergency Flag for High-Priority Issues  
-- 📊 Status Tracking & Updates  
-- ⭐ Feedback & Rating After Resolution  
-- 👨‍💼 Role-Based Access (Student / Admin)  
+- 🚨 Emergency Priority Handling  
+- 📊 Complaint Status Tracking  
+- ⭐ Feedback and Rating System  
+- 🪪 Outpass Request & Approval Workflow  
+- 🤖 Chatbot for instant user assistance  
+- 👥 Role-Based Access Control  
 
 ---
 
