@@ -51,8 +51,7 @@ The goal is to create a **transparent, accountable, and user-friendly system** f
 ## 👩‍💻 My Role & Contributions
 
 - Designed the complete **UI/UX flow** of the application  
-- Planned user journeys for multiple roles (Student, <img width="1896" height="910" alt="Screenshot 2026-04-20 112309" src="https://github.com/user-attachments/assets/f8503452-f84a-4f5c-82c9-0def26247b7f" />
-Warden, Admin)  
+- Planned user journeys for multiple roles ( Student, Warden, Admin)  
 - Created intuitive and accessible interface layouts  
 - Focused on usability, clarity, and real-world practicality  
 - Contributed to frontend structure and interaction design  
