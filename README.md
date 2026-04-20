@@ -1,4 +1,4 @@
-<img width="1907" height="902" alt="Screenshot 2026-04-20 113730" src="https://github.com/user-attachments/assets/fc25adc5-e5ab-4593-9cfc-3ed41a986cf0" /># Smart Hostel Management System (Institution-Focused Web Application)
+Hostel Management System (Institution-Focused Web Application)
 
 ## 🌐 Live Demo
 Accessible via institutional login (restricted access)
