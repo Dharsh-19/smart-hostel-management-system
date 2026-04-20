@@ -120,14 +120,22 @@ This application introduces a centralized digital platform that enables:
 - Student Dashboard
  <img width="1896" height="910" alt="Screenshot 2026-04-20 112309" src="https://github.com/user-attachments/assets/9989627e-c498-430d-9542-ad499f57c9ab" />
 
+
+
 - Complaint Submission
    <img width="1904" height="909" alt="Screenshot 2026-04-20 112328" src="https://github.com/user-attachments/assets/6050cd7c-604b-4ee2-b40e-dbcb8946b23e" />
+
+
 
 - Outpass Request Page
 <img width="1906" height="908" alt="Screenshot 2026-04-20 112355" src="https://github.com/user-attachments/assets/19bfaaf7-5cbd-44d6-b82f-d55e877250bb" />
 
+
+
 - QR Verification Flow
   <img width="1891" height="897" alt="Screenshot 2026-04-20 113646" src="https://github.com/user-attachments/assets/36adf6e6-478a-4f98-a8a4-26baebd9d1c8" />
+
+
 
 - Admin / Warden Dashboard  
 <img width="1907" height="902" alt="Screenshot 2026-04-20 113730" src="https://github.com/user-attachments/assets/0caaec06-8298-4faa-b0d2-3ad0826c283c" />
