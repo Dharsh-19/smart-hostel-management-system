@@ -101,7 +101,7 @@ This application introduces a centralized digital platform that enables:
 - **Backend / Database:** Firebase Firestore  
 - **Email Service:** EmailJS  
 - **Deployment:** Netlify  
-- **Design Tool:** Figma  
+
 
 ---
 
@@ -116,7 +116,7 @@ This application introduces a centralized digital platform that enables:
 ---
 
 ## 📸 Screenshots
-(Add key UI screens here)
+
 - Student Dashboard
  <img width="1896" height="910" alt="Screenshot 2026-04-20 112309" src="https://github.com/user-attachments/assets/9989627e-c498-430d-9542-ad499f57c9ab" />
 
